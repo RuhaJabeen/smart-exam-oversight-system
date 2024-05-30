@@ -6,3 +6,12 @@ in root terminal 1
 npm run server
 in root terminal 2 
 npm run client
+
+
+
+git commands
+
+
+
+
+
